@@ -1,0 +1,8 @@
+prefix=/home/hk/rc_ws/install
+
+Name: gazebo_tutorial
+Description: Description of gazebo_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
